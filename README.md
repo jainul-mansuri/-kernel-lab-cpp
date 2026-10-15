@@ -1,4 +1,4 @@
-# Mini OS Kernel Simulator (MOSKS)
+# Mini OS Kernel Simulator
 
 A comprehensive, text-based simulator for core operating system concepts built in C++. This project simulates a multi-process environment with a sophisticated memory management unit and a preemptive CPU scheduler.
 
